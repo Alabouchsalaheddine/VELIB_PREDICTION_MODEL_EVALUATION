@@ -15,5 +15,5 @@ Calculate the mean absolute error of the Vélib prediction model.
 
 Here is the result, go and see how we get to this :
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Alabouchsalaheddine/VELIB_PREDICTION_MODEL_EVALUATION/blob/main/images/8.png">
+  <img width="700" height="600" src="https://github.com/Alabouchsalaheddine/VELIB_PREDICTION_MODEL_EVALUATION/blob/main/images/8.png">
 </p>
