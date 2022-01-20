@@ -1,0 +1,56 @@
+[
+   {
+      "station":{
+         "gps":{
+            "latitude":48.85388354132773,
+            "longitude":2.3493797332048416
+         },
+         "state":"Operative",
+         "name":"Arcole - Notre-Dame",
+         "code":"4001",
+         "type":"yes",
+         "dueDate":1576018800
+      },
+      "nbBike":12,
+      "nbEbike":4,
+      "nbFreeDock":0,
+      "nbFreeEDock":15,
+      "creditCard":"yes",
+      "nbDock":0,
+      "nbEDock":31,
+      "nbBikeOverflow":0,
+      "nbEBikeOverflow":0,
+      "kioskState":"yes",
+      "overflow":"no",
+      "overflowActivation":"no",
+      "maxBikeOverflow":31,
+      "densityLevel":1
+   },
+   {
+      "station":{
+         "gps":{
+            "latitude":48.85525811539143,
+            "longitude":2.3473754525184636
+         },
+         "state":"Operative",
+         "name":"Marché aux fleurs",
+         "code":"4002",
+         "type":"yes",
+         "dueDate":1576018800
+      },
+      "nbBike":7,
+      "nbEbike":3,
+      "nbFreeDock":0,
+      "nbFreeEDock":12,
+      "creditCard":"yes",
+      "nbDock":0,
+      "nbEDock":23,
+      "nbBikeOverflow":0,
+      "nbEBikeOverflow":0,
+      "kioskState":"yes",
+      "overflow":"no",
+      "overflowActivation":"no",
+      "maxBikeOverflow":23,
+      "densityLevel":1
+   }
+]
