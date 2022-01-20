@@ -1,4 +1,4 @@
-# VELIB_PREDICTION_MODEL_EVALUATION
+# VELIB PREDICTION MODEL EVALUATION
 In this notebook we will evaluate the Velib prediction model
 ## What is Velib ?
 Velib is a public bicycle sharing system in Paris, France. It encompasses around 14500 bicycles and 1400 bicycles stations located across Paris and some surroundinf municipalities.
